@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Charlie\\Documents\\GitHub\\simp_App\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "C:\\Users\\conch\\Documents\\GitHub\\simp_App\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Charlie\\Documents\\GitHub\\simp_App\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "source": "C:\\Users\\conch\\Documents\\GitHub\\simp_App\\android\\app\\src\\main\\res\\values-night\\styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
